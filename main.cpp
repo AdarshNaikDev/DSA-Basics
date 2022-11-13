@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-  cout<<"Namaste Duniya";
-  
+  int a=123;
+  cout<< "Value is " <<a <<endl;
 }
